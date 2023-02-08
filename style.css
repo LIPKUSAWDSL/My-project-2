@@ -1,0 +1,55 @@
+	@import url('https://fonts.googleapis.com/css2?family=Anek+Devanagari&family=Pacifico&family=Roboto:wght@100&display=swap');
+	@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+	@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+	body{
+		background-image: url("tlo.png");
+	}
+	header{
+		text-align: center;
+		font-family: 'Nerko One', cursive;
+		color: white;
+	}
+	h2{
+		font-family: 'Lato', sans-serif;
+	}
+	#txt1 {
+		color: #008cff;
+		text-align: center;
+	}
+	button{
+		width:290px;
+		height:70px;
+		text-decoration: none;
+		color: black;
+		background-color:white;
+		border-radius: 10px;
+		background-color: #ebebeb;
+		border-color: #ebebeb;
+		margin: 0px;
+	}
+	.linki{
+		text-align: center;
+	}
+	#youtube{
+		color: #ff0000;
+	}
+	#instagram{
+		color: #ff1ce1;
+	}
+	#twitch{
+		color: #b300ff;
+	}
+	#twitter{
+		color: #03bafc;
+	}
+	#discord{
+		color: #5841d9;
+	}
+	#fot{
+		text-align: center;
+		color: white;
+	}
+	#hide{
+		color: white;
+		text-align: right;
+	}
